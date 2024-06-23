@@ -127,6 +127,8 @@ Snowflake scheme is used as a method for data modeling in this project.In a snow
 
 The main idea behind snowflake modeling is to normalize the data by breaking it down into smaller, more manageable tables with fewer redundant data, reducing data duplication and improving data integrity.
 
+![data_model](https://github.com/ShrajanKumar/Business-Insight--Bricks-Mortar-and-ecommerce/assets/138092818/eb3a27af-7f34-4e82-ac87-b0284ee5cbcf)
+
 ## Project Outcome :
 By utilizing this report, stakeholders gain valuable insights to make informed decisions across different departments. Whether it's optimizing finances, boosting sales, refining marketing strategies or enhancing supply chain efficiency, the Power BI dashboard equips decision-makers with the tools to drive effective and strategic actions ensuring AtliQ Hardware stays on the path of sustained growth and success.
 

@@ -63,7 +63,7 @@ Importing data from SQL/Excel >Transforming data>KPIs with DAX >> Building table
 ## About AtliQ Hardware
 AltiQ Hardware is a rapidly expanding company in recent years whose head office is situated in Delhi, India and they have many regional office through out the India. AtliQ has established its presence across the global market. Specializing in the sale of computers and computer accessories and the company operates through three primary channels:
 
-![Alt text](lnkedgit_image2.jpg)
+![Inkedgit_image2](https://github.com/ShrajanKumar/Business-Insight--Bricks-Mortar-and-ecommerce/assets/138092818/374352f2-5367-4c5a-869e-b02aa17cff37)
 
 
 Despite its remarkable growth, AltiQ Hardware recently encounters unexpected setbacks with the launch of a new store. This setback was identified through surveys, intuitive observations and comprehensive Excel analyses but AltiQ Hardware's competitors possess well-equipped analytics teams, enabling them to make informed, data-driven decisions. In response to these challenges, AltiQ Hardware recognizes the importance of establishing its own analytics team. The objective is to leverage data-driven insights for better decision-making and to ensure the company's growth and competitiveness within the industry.
@@ -126,6 +126,8 @@ Data modeling is the process of representing relationship between the tables .
 Snowflake scheme is used as a method for data modeling in this project.In a snowflake schema, the data is organized into a hierarchy of multiple related tables, resembling the shape of a snowflake when visualized. It involves defining and organizing data elements, their attributes, and the relationships between them to create a blueprint for how data should be stored, accessed, and managed .
 
 The main idea behind snowflake modeling is to normalize the data by breaking it down into smaller, more manageable tables with fewer redundant data, reducing data duplication and improving data integrity.
+
+![data_model](https://github.com/ShrajanKumar/Business-Insight--Bricks-Mortar-and-ecommerce/assets/138092818/eb3a27af-7f34-4e82-ac87-b0284ee5cbcf)
 
 ## Project Outcome :
 By utilizing this report, stakeholders gain valuable insights to make informed decisions across different departments. Whether it's optimizing finances, boosting sales, refining marketing strategies or enhancing supply chain efficiency, the Power BI dashboard equips decision-makers with the tools to drive effective and strategic actions ensuring AtliQ Hardware stays on the path of sustained growth and success.

@@ -63,7 +63,7 @@ Importing data from SQL/Excel >Transforming data>KPIs with DAX >> Building table
 ## About AtliQ Hardware
 AltiQ Hardware is a rapidly expanding company in recent years whose head office is situated in Delhi, India and they have many regional office through out the India. AtliQ has established its presence across the global market. Specializing in the sale of computers and computer accessories and the company operates through three primary channels:
 
-![Alt text](lnkedgit_image2.jpg)
+![Inkedgit_image2](https://github.com/ShrajanKumar/Business-Insight--Bricks-Mortar-and-ecommerce/assets/138092818/374352f2-5367-4c5a-869e-b02aa17cff37)
 
 
 Despite its remarkable growth, AltiQ Hardware recently encounters unexpected setbacks with the launch of a new store. This setback was identified through surveys, intuitive observations and comprehensive Excel analyses but AltiQ Hardware's competitors possess well-equipped analytics teams, enabling them to make informed, data-driven decisions. In response to these challenges, AltiQ Hardware recognizes the importance of establishing its own analytics team. The objective is to leverage data-driven insights for better decision-making and to ensure the company's growth and competitiveness within the industry.

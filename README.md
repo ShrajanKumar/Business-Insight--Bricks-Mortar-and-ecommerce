@@ -63,3 +63,6 @@ Importing data from SQL/Excel >Transforming data>KPIs with DAX >> Building table
 ## About AtliQ Hardware
 AltiQ Hardware is a rapidly expanding company in recent years whose head office is situated in Delhi, India and they have many regional office through out the India. AtliQ has established its presence across the global market. Specializing in the sale of computers and computer accessories and the company operates through three primary channels:
 
+![Alt text](D:\1AA Code_basics\Altiq_project\Inkedgit_image2.jpg)
+
+
